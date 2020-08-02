@@ -1,3 +1,4 @@
+// https://atcoder.jp/contests/abc172/submissions/15581368
 /* src:
 
 S, T = inputWord(), inputWord()
